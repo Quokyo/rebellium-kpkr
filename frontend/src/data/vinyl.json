@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "DAMN.",
+      "artist": "Kendrick Lamar",
+      "year": 2017,
+      "genre": "Hip-Hop",
+      "price": 22.99,
+      "stock": 5,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png"
+    },
+    {
+      "id": 2,
+      "title": "IGOR",
+      "artist": "Tyler, The Creator",
+      "year": 2019,
+      "genre": "Hip-Hop",
+      "price": 19.99,
+      "stock": 10,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/0b/Tyler%2C_the_Creator_-_Igor.png"
+    },
+    {
+      "id": 3,
+      "title": "Random Access Memories",
+      "artist": "Daft Punk",
+      "year": 2013,
+      "genre": "Electronic",
+      "price": 24.99,
+      "stock": 8,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/a/a7/Random_Access_Memories.jpg"
+    }
+  ]
+  
